@@ -16,10 +16,9 @@ Now I just need you to copy-paste this command in your terminal and we're almost
 cd ~/Downloads/fish && python3 -m venv venv && source venv/bin/activate && pip install pygame numpy
 ```
 
-## 4. Run it
-
-Run this command whenever you're ready, and enjoy my lil pet project :ppp
+Now all you need to do is run this command whenever you're ready, and enjoy my lil pet project :ppp
 
 ```bash
 python gaurangi_fih.py
 ```
+(Press C when it's running for a lil extra surprise)
