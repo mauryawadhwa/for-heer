@@ -16,9 +16,17 @@ Now I just need you to copy-paste this command in your terminal and we're almost
 cd ~/Downloads/maurya && python3 -m venv venv && source venv/bin/activate && pip install pygame numpy
 ```
 
-Now all you need to do is run this command whenever you're ready, and enjoy my lil pet project :ppp
+For the first one, run this command whenever you're ready, and enjoy my lil pet project :ppp
 
 ```bash
 python gaurangi_fih.py
 ```
 (Press C when it's running for a lil extra surprise)
+
+Now for the second one, run this command, sit back, and enjoy the sparkle ^_^
+
+```bash
+python gaurangi.py
+```
+
+Thank you for cooperating, hope you enjoy
